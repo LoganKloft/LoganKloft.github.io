@@ -1,184 +1,169 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+    "name": "Logan Kloft",
+    "description": "I am a Software Engineer and among the tools I use to develop applications are React and ExpressJS. My favorite programming language is C# for its beautiful documentation, standard library, and out-of-the-box capabilities. I am also interested in operating systems and embedded systems and have experience implementing a basic EXT2 file system in addition to writing a booter for a self-built OS by Professor Kung-Chi Wang",
+    "image": "profilepic.jpg",
+    "bio": "Passionate about technology. Enjoy learning about new technologies or current technologies that are new to me. Strong belief in working together to solve complex problems in an efficient manner. Like to read in free time, if you are interested in fantasy books I'm your man!",
+    "contactmessage": "Please reach out to me. I prefer email or text. Don't forget to connect over LinkedIn!",
+    "email": "lkloft@outlook.com",
+    "phone": "360-440-4491",
+    "github": "https://github.com/LoganKloft",
+    "project": "https://www.linkedin.com/in/logan-kloft",
+    "address": {
+      "city": "Vancouver",
+      "state": "WA"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
+    "website": "https://logankloft.github.io/",
+    "resumedownload": "logan_kloft_resume.pdf",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/logan-kloft",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/LoganKloft",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Always seeking self improvement!",
+    "education": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Washington State University",
+        "degree": "BSc in Computer Science",
+        "graduated": "Expected Dec 2023",
+        "description": "Washington State University has equipt me with the skills to succeed in a modern tech environment. They've taught be the necessary basics such as data structures and algorithms, web development, calculus, and programming languages."
       }
     ],
-    "work":[
+    "skills": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "name": "C#",
+        "level": "60%"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      }
-    ],
-    "skills":[
-      {
-        "name":"Python",
-        "level":"60%"
+        "name": "C",
+        "level": "70%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name": "ReactJs",
+        "level": "30%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "CSS",
+        "level": "40%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "HTML",
+        "level": "60%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name": "JavaScript",
+        "level": "60%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "name": "Git",
+        "level": "50%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Bullet Madness Game",
+        "category": "Learning opportunity focused on using software design patterns",
+        "image": "bm-game.png",
+        "url": "https://github.com/LoganKloft/BulletMadnessGame"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "QR Code Guide",
+        "category": "Learning opportunity focused on the creation of a basic Quick Response Code",
+        "image": "qrcode.png",
+        "url": "https://logankloft.github.io/QuickResponseCode/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Basic File System",
+        "category": "Learning opportunity focused on creating an EXT2 file system with basic commands",
+        "image": "basic-file-system.png",
+        "url": "https://github.com/LoganKloft/BasicFileSystem"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Recipea",
+        "category": "Learning opportunity focused on creating a recipe sharing app using ReactJS and ExpressJS",
+        "image": "recipea.png",
+        "url": "https://github.com/LoganKloft/Recipea"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Steganography",
+        "category": "Learning opportunity focused on creating a steganography application that uses LSB and meta data",
+        "image": "stego.png",
+        "url": "https://github.com/LoganKloft/Steganography"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Spreadsheet",
+        "category": "Learning opportunity focused on creating a data driven WinForms application in C#",
+        "image": "spreadsheet.png",
+        "url": "https://github.com/LoganKloft/Spreadsheet"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Habitation Defense",
+        "category": "Learning opportunity focused on using c++ to create a game",
+        "image": "habitation.png",
+        "url": "https://github.com/LoganKloft/kloft_lynn_PA9/tree/Logan"
+      }
+    ],
+    "theodinproject": [
+      {
+        "title": "Weather App (WIP)",
+        "category": "Learning opportunity focused on using apis",
+        "image": "weather-app.png",
+        "url": "https://github.com/LoganKloft/project-weather-app"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Library App",
+        "category": "Learning opportunity focused on using objects and object constructors",
+        "image": "project-library.png",
+        "url": "https://logankloft.github.io/project-library/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Todo List",
+        "category": "Learning opportunity focused on generating HTML using purely JavaScript and Webpack",
+        "image": "todo-list.png",
+        "url": "https://logankloft.github.io/todo-list/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Tic Tac Toe",
+        "category": "Learning opportunity focused on using factory functions and the module pattern",
+        "image": "tic-tac-toe.png",
+        "url": "https://logankloft.github.io/tic-tac-toe/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Etch a Sketch",
+        "category": "Learning opportunity focused on how to manipulate the DOM",
+        "image": "etch-a-sketch.png",
+        "url": "https://logankloft.github.io/Etch-a-Sketch/"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Rock Paper Scissors",
+        "category": "Learning opportunity focused on incorporating JavaScript into a website",
+        "image": "rock-paper-scissors.png",
+        "url": "https://logankloft.github.io/RockPaperScissors/"
+      },
+      {
+        "title": "Restaurant Page",
+        "category": "Learning opportunity focused on generating HTML using purely JavaScript and Webpack",
+        "image": "project-restaurant.png",
+        "url": "https://logankloft.github.io/project-restaurant-page/"
+      }
+    ],
+    "hackathon": [
+      {
+        "title": "CrimsonCode - Spring 2021",
+        "category": "Learning opportunity focused on generating HTML using purely JavaScript and Webpack",
+        "image": "hackathon.png",
+        "url": "https://logankloft.github.io/hackathon/"
       }
     ]
   }

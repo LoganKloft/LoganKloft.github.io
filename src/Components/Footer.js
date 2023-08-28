@@ -8,7 +8,7 @@ class Footer extends Component {
     const networks = this.props.data.social.map(function (network) {
       return (
         <li key={network.name}>
-          <a href={network.url}>
+          <a href={network.url} rel="noreferrer" target="_blank">
             <i className={network.className}></i>
           </a>
         </li>
@@ -23,11 +23,10 @@ class Footer extends Component {
               <ul className="social-links">{networks}</ul>
 
               <ul className="copyright">
-                <li>&copy; Copyright 2021 Nordic Giant</li>
                 <li>
-                  Design by{" "}
-                  <a title="Styleshout" href="http://www.styleshout.com/">
-                    Styleshout
+                  Favicon by{" "}
+                  <a title="Styleshout" href="https://icons8.com/" rel="noreferrer" target="_blank">
+                    Icons8
                   </a>
                 </li>
               </ul>
