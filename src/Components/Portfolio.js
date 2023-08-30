@@ -15,7 +15,9 @@ class Portfolio extends Component {
       return (
         <div key={id1++} className="columns portfolio-item">
           <div className="item-wrap">
-            <Zmage alt={projects.title} src={projectImage} />
+            <a href={projects.url} target="_blank" rel="noreferrer">
+              <img style={{ height: "150px", width: "100%" }} alt={projects.title} src={projectImage} />
+            </a>
             <div style={{ textAlign: "center" }}>{projects.title}</div>
           </div>
         </div>
@@ -28,7 +30,9 @@ class Portfolio extends Component {
       return (
         <div key={id2++} className="columns portfolio-item">
           <div className="item-wrap">
-            <Zmage alt={projects.title} src={projectImage} />
+            <a href={projects.url} target="_blank" rel="noreferrer">
+              <img style={{ height: "150px", width: "100%" }} alt={projects.title} src={projectImage} />
+            </a>
             <div style={{ textAlign: "center" }}>{projects.title}</div>
           </div>
         </div>
@@ -41,7 +45,9 @@ class Portfolio extends Component {
       return (
         <div key={id3++} className="columns portfolio-item">
           <div className="item-wrap">
-            <Zmage alt={projects.title} src={projectImage} />
+            <a href={projects.url} target="_blank" rel="noreferrer">
+              <img style={{ height: "150px", width: "100%" }} alt={projects.title} src={projectImage} />
+            </a>
             <div style={{ textAlign: "center" }}>{projects.title}</div>
           </div>
         </div>

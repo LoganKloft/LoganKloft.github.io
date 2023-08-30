@@ -2,7 +2,7 @@
   "name": "logankloft",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://LoganKloft.github.io/",
+  "homepage": ".",
   "dependencies": {
     "anix": "^1.3.6",
     "jquery": "^3.6.0",

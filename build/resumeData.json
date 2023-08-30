@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Logan Kloft",
-    "description": "I am a Software Engineer and among the tools I use to develop applications are React and ExpressJS. My favorite programming language is C# for its beautiful documentation, standard library, and out-of-the-box capabilities. I am also interested in operating systems and embedded systems and have experience implementing a basic EXT2 file system in addition to writing a booter for a self-built OS by Professor Kung-Chi Wang",
+    "description": "I am a Software Engineer and among the tools I use to develop applications are React and ExpressJS. My favorite programming language is C# for its beautiful documentation, standard library, and out-of-the-box capabilities. I am also interested in lower level development and have experience implementing a basic EXT2 file system",
     "image": "profilepic.jpg",
     "bio": "Passionate about technology. Enjoy learning about new technologies or current technologies that are new to me. Strong belief in working together to solve complex problems in an efficient manner. Like to read in free time, if you are interested in fantasy books I'm your man!",
-    "contactmessage": "Please reach out to me. I prefer email or text. Don't forget to connect over LinkedIn!",
+    "contactmessage": "Please don't hesitate to send an email or text message and definitely make sure to connect over LinkedIn!",
     "email": "lkloft@outlook.com",
     "phone": "360-440-4491",
     "github": "https://github.com/LoganKloft",
@@ -33,7 +33,7 @@
     "education": [
       {
         "school": "Washington State University",
-        "degree": "BSc in Computer Science",
+        "degree": "B.S. in Computer Science",
         "graduated": "Expected Dec 2023",
         "description": "Washington State University has equipt me with the skills to succeed in a modern tech environment. They've taught be the necessary basics such as data structures and algorithms, web development, calculus, and programming languages."
       }
